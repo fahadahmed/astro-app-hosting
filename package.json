@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "astro": "^5.8.0"
+  },
+  "devDependencies": {
+    "@apphosting/astro-adapter": "^0.0.1"
   }
 }
